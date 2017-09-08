@@ -23,5 +23,7 @@ https://latex.codecogs.com/gif.latex?x%20%3D%20a_0%20&plus;%20%5Cfrac%7B1%7D%7Ba
 
 9.
 [latex]x = a_0 + \frac{1}{a_1 + \frac{1}{a_2 + \frac{1}{a_3 + a_4}}}[/latex]
+   
+   
 
-
+$$\frac{1}{2}$$

@@ -8,3 +8,7 @@ mnist-original.mat 下载老是出错，直接放在git中，运行时放到skle
 使用opencv3.3库。
 
 处理思想在文章1里面 
+
+由此思及车牌识别系统。
+文章列表：
+https://zhuanlan.zhihu.com/p/21736960
